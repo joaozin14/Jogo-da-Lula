@@ -1,5 +1,4 @@
 import random
-import os
 
 while True:
     print("Seja bem vindo ao squid game, vamos jogar! \n")
